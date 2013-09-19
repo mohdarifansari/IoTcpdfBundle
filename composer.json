@@ -21,7 +21,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/w00d5t0ck"
+			"url": "https://github.com/mohdarifansari/IoTcpdfBundle.git"
 		}
 	],
 	"require": {
