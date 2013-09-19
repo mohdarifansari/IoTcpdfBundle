@@ -1,5 +1,5 @@
 {
-	"name": "gergelypolonkai/tcpdfbundle",
+	"name": "mohdarifansari/tcpdfbundle",
 	"type": "symfony-bundle",
 	"description": "Provides TCPDF integration for Symfony",
 	"keywords": [ "tcpdf", "pdf" ],
@@ -12,7 +12,11 @@
 		{
 			"name": "Gergely Polonkai",
 			"email": "gergely@polonkai.eu"
-		}
+		},
+		{
+			"name": "Mohammad Arif Ansari",
+			"email": "mohammad.ansari@inscripts.com"
+		}		
 	],
 	"repositories": [
 		{
